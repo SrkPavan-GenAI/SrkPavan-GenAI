@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Srk.Pavan 👋
 
-<!--
-**SrkPavan-GenAI/SrkPavan-GenAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 GenAI Engineer
 
-Here are some ideas to get you started:
+I build real-world AI systems using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔹 RAG (Retrieval-Augmented Generation)
+- 🔹 Multi-Agent Systems
+- 🔹 LLMOps (LangChain, Langfuse, etc.)
+- 🔹 Prompt Engineering
+
+---
+
+## 📌 Current Focus
+
+- Building production-ready GenAI applications  
+- Exploring scalable AI workflows  
+- Documenting everything professionally  
+
+---
+
+## 🧠 Projects Coming Soon
+
+- RAG Chatbot  
+- Multi-Agent AI System  
+- LLMOps Monitoring Project  
+- Capstone Project  
+- Data Analysis
+- PowerBI Reports
+- PowerBI DAX related queries
+- PowerBI DAX Simplification
+  
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/srk-pavan-kumar-690667ab
+
+---
