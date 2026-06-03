@@ -1,4 +1,4 @@
-# Hi, I'm Srk.Pavan 👋
+# Hi, I'm Srk.Pavan Kumar 👋
 
 ## 🚀 GenAI Engineer
 
