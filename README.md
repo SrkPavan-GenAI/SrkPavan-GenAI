@@ -4,10 +4,10 @@
 
 I build real-world AI systems using:
 
-- 🔹 RAG (Retrieval-Augmented Generation)
-- 🔹 Multi-Agent Systems
-- 🔹 LLMOps (LangChain, Langfuse, etc.)
-- 🔹 Prompt Engineering
+🔹 RAG (Retrieval-Augmented Generation)
+🔹 Multi-Agent Systems
+🔹 LLMOps (LangChain, Langfuse, etc.)
+🔹 Prompt Engineering
 
 ---
 
@@ -56,11 +56,11 @@ I have experience managing projects from requirement gathering to successful del
 - End-to-End Project Delivery
 - UAT & Deployment Coordination
 - User Training & Knowledge Transfer
-- 
+  
 ---
 
 ## 📫 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/srk-pavan-kumar-690667ab)
+[LinkedIn](www.linkedin.com/in/srk-pavan-kumar-690667ab)
 
 ---
