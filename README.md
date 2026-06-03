@@ -61,6 +61,6 @@ I have experience managing projects from requirement gathering to successful del
 
 ## 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/srk-pavan-kumar-690667ab)
+LinkedIn - www.linkedin.com/in/srk-pavan-kumar-690667ab
 
 ---
