@@ -5,8 +5,11 @@
 I build real-world AI systems using:
 
 🔹 RAG (Retrieval-Augmented Generation)
+
 🔹 Multi-Agent Systems
+
 🔹 LLMOps (LangChain, Langfuse, etc.)
+
 🔹 Prompt Engineering
 
 ---
